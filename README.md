@@ -1,8 +1,5 @@
-
-<br><br><br>
-
 # ThickV-Stain in PyTorch
-
+A multi-scale virtual staining model for unprocessed thick tissues
 
 ## Prerequisites
 - Linux or macOS
@@ -11,10 +8,9 @@
 
 ## Getting Started
 ### Installation
-
 - Clone this repo:
 ```bash
-git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+git clone https://github.com/TABLAB-HKUST/ThickV-Stain.git
 cd ThickV-Stain
 ```
 
